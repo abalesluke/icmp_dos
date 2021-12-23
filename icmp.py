@@ -44,6 +44,7 @@ def help():
 │ ╰━━┻━━━┻╯╰╯╰┻╯╱╱╱╰━━━┻━━┻━━━╯ │
 │   By: Anikin Luke             │
 ┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛
+Note: I am no longer responsible for any misuse of this tool!. Be Ethical.
 Usage: 
   python3 {os.path.basename(__file__)} <host> <packet_count> <power>
 Example:
